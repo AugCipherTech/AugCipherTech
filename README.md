@@ -54,8 +54,8 @@ Tools & Management     : Git, GitHub, Linear, Notion, Slack
 
 📈 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.apps/api?username=your-github-org&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.apps/api/top-langs/?username=your-github-org&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.apps/api?username=AugCipherTech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.apps/api/top-langs/?username=AugCipherTech&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
 </div>
 📞 Connect With Us
 Ready to upgrade your business with smart automation and custom software? Let's build the future together!
