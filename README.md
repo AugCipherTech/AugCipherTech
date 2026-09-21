@@ -46,7 +46,7 @@ We build custom technological solutions tailored to modern business needs:
 
 ## 💻 Core Tech Stack
 
-```text
+
 Languages & Frameworks : JavaScript, TypeScript, Python, React, Next.js, Node.js
 Backend & Databases    : PostgreSQL, MongoDB, Express, Firebase
 Cloud & DevOps         : Docker, AWS, Vercel, Nginx
