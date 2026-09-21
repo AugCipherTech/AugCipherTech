@@ -13,7 +13,7 @@
 
   <p>
     <a href="https://wa.me/8801792021499"><img src="https://img.shields.io/badge/WhatsApp-%2B880%201792--021499-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-    <a href="mailto:augciphertech@gmail.com"><img src="https://img.shields.io/badge/Email-augciphertech%45gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto:augciphertech@gmail.com"><img src="https://img.shields.io/badge/Email-augciphertech@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://facebook.com/AugCipherTech"><img src="https://img.shields.io/badge/Facebook-Page-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   </p>
 
@@ -23,10 +23,10 @@
 
 ## 🎯 Who We Are
 
-**AugCipher Tech** is an innovative software solutions startup dedicated to building robust digital products[span_0](start_span)[span_0](end_span). From automated F-Commerce & E-Commerce platforms to custom enterprise tools, we focus on scalable architectures that drive real business impact.
+**AugCipher Tech** is an innovative software solutions startup dedicated to building robust digital products [span_0](start_span)[span_0](end_span). From automated F-Commerce & E-Commerce platforms to custom enterprise tools, we focus on scalable architectures that drive real business impact.
 
-* **Our Mission:** Deliver smart, reliable, and impactful solutions that empower businesses to grow and thrive[span_1](start_span)[span_1](end_span).
-* **Our Vision:** To be a trusted technology partner known for innovation, quality, and long-term value creation[span_2](start_span)[span_2](end_span).
+* **Our Mission:** Deliver smart, reliable, and impactful solutions that empower businesses to grow and thrive [span_1](start_span)[span_1](end_span).
+* **Our Vision:** To be a trusted technology partner known for innovation, quality, and long-term value creation [span_2](start_span)[span_2](end_span).
 
 ---
 
