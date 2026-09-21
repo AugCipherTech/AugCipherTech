@@ -13,8 +13,8 @@
 
   <p>
     <a href="https://wa.me/8801792021499"><img src="https://img.shields.io/badge/WhatsApp-%2B880%201792--021499-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-    <a href="mailto:augciphertech@gmail.com"><img src="https://img.shields.io/badge/Email-contact%45augciphertech.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://facebook.com/augciphertech"><img src="https://img.shields.io/badge/Facebook-Page-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+    <a href="mailto:augciphertech@gmail.com"><img src="https://img.shields.io/badge/Email-augciphertech%45gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://facebook.com/AugCipherTech"><img src="https://img.shields.io/badge/Facebook-Page-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   </p>
 
 </div>
@@ -37,7 +37,7 @@ We build custom technological solutions tailored to modern business needs:
 | Solution Area | Description |
 | :--- | :--- |
 | **🛒 E-Commerce & F-Commerce** | Superfast websites featuring automated order placement, live inventory tracking, and integrated courier/payment systems[span_3](start_span)[span_3](end_span). |
-| **☁️ Cloud Solutions** | Scalable, secure, and cost-effective cloud infrastructures designed for uninterrupted performance[span_4](start_span)[span_4](end_span). |
+| **☁️ Cloud Solutions** | Scalable, secure, and cost-effective cloud infrastructures designed for uninterrupted performance [span_4](start_span)[span_4](end_span). |
 | **🤖 AI & Automation** | Intelligent tools built to eliminate manual bottlenecks, boost efficiency, and optimize daily workflows[span_5](start_span)[span_5](end_span). |
 | **📊 Data Analytics & BI** | Actionable insights derived from your core data to enable smarter, data-driven business decisions[span_6](start_span)[span_6](end_span). |
 | **💼 Custom Business Apps** | Tailor-made applications, management dashboards, and enterprise tools designed to streamline operations[span_7](start_span)[span_7](end_span). |
@@ -52,13 +52,15 @@ Backend & Databases    : PostgreSQL, MongoDB, Express, Firebase
 Cloud & DevOps         : Docker, AWS, Vercel, Nginx
 Tools & Management     : Git, GitHub, Linear, Notion, Slack
 
-📈 GitHub Stats
+## 📈 GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.apps/api?username=AugCipherTech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.apps/api/top-langs/?username=AugCipherTech&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
 </div>
-📞 Connect With Us
+
+## 📞 Connect With Us
 Ready to upgrade your business with smart automation and custom software? Let's build the future together!
+
  * WhatsApp: +880 1792-021499
  * Email: augciphertech@gmail.com
  * Facebook: AugCipher Tech
